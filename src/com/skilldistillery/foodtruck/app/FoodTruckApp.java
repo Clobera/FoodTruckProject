@@ -72,13 +72,14 @@ public class FoodTruckApp {
 					if (foodTruckreviewStorage[i] != null) {
 						if (maxRating < foodTruckreviewStorage[i].getRating()) {
 							maxRating = foodTruckreviewStorage[i].getRating();
-							foodTruckHighest = foodTruckreviewStorage[i].getName();
-
+							foodTruckHighest = foodTruckreviewStorage[i].getFTData();
+							
 						}
 					}
 
 				}
-				System.out.println("The food truck with the highest rating is " + foodTruckHighest);
+				System.out.println("The food truck with the highest rating is: " + "\n" + foodTruckHighest);
+				System.out.println();
 
 			} else if (userInput.equalsIgnoreCase("quit")) {
 				keepGoing = false;
