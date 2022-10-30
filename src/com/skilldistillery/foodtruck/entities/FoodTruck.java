@@ -55,12 +55,9 @@ public class FoodTruck {
 
 	
 	public String getFTData() {
-		String FTData = null;
-		FTData = "Name: " + name + " Type of food: " + foodType + " Rating: " + rating + " the id is: " + id ;
+		String FTData = "Name: " + name + " Type of food: " + foodType + " Rating: " + rating + " the id is: " + id ;
 		
-		
-		return FTData;
-		
+		return FTData;	
 	}
 	
 	
