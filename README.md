@@ -21,7 +21,7 @@ The program asks a user to input up to 5 food trucks to get a rating. the user e
 	
 	
 	
-### AH-HA MOMENTS;
+### AH-HA MOMENTS:
 <li> Always remember to flush!
 <li> When I got the information from the user and stored them in a variable and passed them to the FoodTruck constructor was a big ah ha moment. I finally understood what a constructor does!
 <li> The Getters and Setters were also a big ah ha moment, because i didnt understand what "this." was refering to until i coded it myself and got it to work.
