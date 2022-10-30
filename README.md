@@ -10,6 +10,7 @@ The program asks a user to input up to 5 food trucks to get a rating. the user e
 <li> For loops
 <li> While loops
 <li> Methods with arguments
+<li> Arrays of Objects
 
 ### Software used: 
 <li> Java
