@@ -1,8 +1,8 @@
 # Food Truck Project
 
 ## Description
-This project was done during my second week of my java full stack bootcamp cohort.
-The program asks a user to input up to 5 food trucks to get a rating. the user enters the name, type of food it is, and what they rate it on a scale from one to 5.
+This project was done during my second week of my java full stack bootcamp cohort SD36.
+The program asks a user to input up to 5 food trucks to get a rating. The user enters the name, what type of food it is, and what they rate it on a scale from 1 to 5. After the user is finished entering the number of food trucks desired(up to 5), the user is prompted to enter another input based on the menu that is displayed. That menu provides options to list all of the food trucks entered, the average rating from all food trucks, the highest rated food truck, and finally to quit the program.
 
 ### What is used:
 <li> Constructors
